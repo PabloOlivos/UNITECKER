@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable-xxhdpi/rounded_rect_white.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/background_btn_black.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/background_size_share.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_dialog.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_empty.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_loading_subtitles_accent.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_phone_btn.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_round_gopro.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_round_user.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_season_tab.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_user.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/bg_user_label.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/border_file.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/border_left.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/border_top.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/circle_shape.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/comment_bg.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/gradient_dialog.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/gradient_dialog_btn_ads.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_account.xml" value="0.22" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_add.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_add_a_photo.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_arrow_downward.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_assignment.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_attach_money.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_check.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_crop_black.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_delete_review.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_editor.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_egg.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_email.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_exit_to_app.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_face.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_facebook_login.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_facebook_profile.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_file_download.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_file_upload.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_filter_vintage.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_format_paint.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_google_login.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_grid.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_home_2.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_image.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_info.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_instagram_profile.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_keyboard_arrow_down.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_keyboard_arrow_up.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_like.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_lock.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_logout.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_magic_wand.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_round_redo_inactive_24px.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_send.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_server.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_share_black.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_signal.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_stop_ads.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_time.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_trusted.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_twitter_profile.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_update.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_whatsapp.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_zap.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_zoom.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_zoom_in.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/ic_zoom_inactive.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/materialcolorpicker__blue_progress.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/materialcolorpicker__blue_thumb_drawable.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/materialcolorpicker__color_button.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/materialcolorpicker__color_button_16.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/materialcolorpicker__green_progress.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/materialcolorpicker__green_thumb_drawable.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/materialcolorpicker__red_thumb_drawable.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/pencil_selector.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/progress.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/red_btn_black.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/redo_selector.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/rounded_rectangle.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/screenshot_bg_white.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/drawable/undo_selector.xml" value="0.2035" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_category.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_edit.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_editor.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_image_edit.xml" value="0.2935185185185185" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_infos.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_load.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_main.xml" value="0.2935185185185185" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_policy.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_search.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_settings.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_slide.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_splash.xml" value="0.2935185185185185" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_sticker_details.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_support.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_upload.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/activity_user.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/ad_unified.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/app_bar_home.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/bucketitem.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/content_home.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/crop_mode_dialog.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/dialog_rating_app.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/dialog_subscribe.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/error_layout.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_categories.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_edit_image_add_text.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_edit_image_crop.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_edit_image_main_menu.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_edit_image_rotate.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_edit_image_sticker_type.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_edit_paint.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_favorites.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_follow.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_popular.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/fragment_user.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/gallery.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/imageitem.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_admob_native_ads.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_bitmap.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_categories.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_category.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_category_mini.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_category_select.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_facebook_ads.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_following.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_followings.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_mopub_native.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_mopub_view_parent.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_native_banner_ad_layout.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_pack.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_slide.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_slide_1.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_slide_2.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_slide_one.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_tag.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/item_tags.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/list_item_image.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/materialcolorpicker__layout_color_picker.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/materialcolorpicker__layout_color_picker_old_android.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/mopub_banner.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/native_ad_layout_1.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/nav_header_home.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/recycler_view_item.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/update_message.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/user_item.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/user_row.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/view_color_more_panel.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/view_color_panel.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/view_set_stoke_width.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/view_sticker_item.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/layout/view_sticker_type_item.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/menu/activity_home_drawer.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/menu/home.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2) - copia/app/src/main/res/menu/pack.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable-xxhdpi/rounded_rect_white.xml" value="0.2875" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_btn_black.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_btn_red.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_following.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_load_more.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_signal.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_size.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_size_fav.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_size_share.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/background_telegram.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_background_green.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_dialog.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_empty.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_fab_accent.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_facebook_btn.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_google_btn.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_google_icon.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_loading_subtitles_accent.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_phone_btn.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_round_gopro.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_round_user.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_season_tab.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_user.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/bg_user_label.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/border_bottom_comment.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/border_bottom_settings.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/border_file.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/border_left.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/border_left_transparent.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/border_top.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/btn_follow.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/circle_shape.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/circular_progress_bar.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/comment_bg.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/edit_text_bg.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/gradient_dialog.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/gradient_dialog_btn_ads.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/gradient_dialog_btn_go.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_account.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_add.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_add_a_photo.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_arrow_downward.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_assignment.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_attach_money.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_check.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_crop_black.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_delete_black.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_delete_review.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_editor.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_egg.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_egg_2.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_email.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_email_profile.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_exit_to_app.xml" value="0.25" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_face.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_facebook_login.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_facebook_profile.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_file_download.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_file_upload.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_filter_vintage.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_font.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_format_paint.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_google_login.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_grid.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_home_2.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_image.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_info.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_instagram_profile.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_keyboard_arrow_down.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_keyboard_arrow_up.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_like.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_live_help.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_lock.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_login.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_login_black.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_logout.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_magic_selector.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_magic_wand.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_magic_wand_inactive.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_notifications.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_pencil.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_pencil_inactive.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_phone_msg.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_premium.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_public.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_rotate.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_round_redo_24px.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_round_redo_inactive_24px.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_round_undo_24px.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_round_undo_inactive_24px.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_search_black.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_send.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_server.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_settings.xml" value="0.25" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_share_black.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_signal.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_size.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_stop_ads.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_subscribe.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_subscriptions_my.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_supervisor_account.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_telegram.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_text_fields.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_time.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_trusted.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_twitter_profile.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_update.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_whatsapp.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_zap.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_zoom.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_zoom_in.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/ic_zoom_inactive.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/magic_selector.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/magnifier_selector.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/materialcolorpicker__blue_progress.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/pencil_selector.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/progress.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/red_btn_black.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/red_progress.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/redo_selector.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/rounded_rectangle.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/screenshot_bg_white.xml" value="0.237" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/side_nav_bar.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/drawable/undo_selector.xml" value="0.2005" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_category.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_edit.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_editor.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_home.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_image_edit.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_infos.xml" value="0.25" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_load.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_main.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_policy.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_search.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_settings.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_slide.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_splash.xml" value="0.29322916666666665" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_sticker_details.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_support.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_upload.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/activity_user.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/ad_unified.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/app_bar_home.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/bucketitem.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/content_home.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/crop_mode_dialog.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/dialog_rating_app.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/dialog_subscribe.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/error_layout.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_categories.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_edit_image_add_text.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_edit_image_crop.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_edit_image_main_menu.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_edit_image_rotate.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_edit_image_sticker_type.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_edit_paint.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_favorites.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_follow.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_home.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_popular.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/fragment_user.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/gallery.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/imageitem.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_admob_native_ads.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_bitmap.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_categories.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_category.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_category_mini.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_category_select.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_facebook_ads.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_following.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_followings.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_mopub_native.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_mopub_view_parent.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_native_banner_ad_layout.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_pack.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide_1.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide_2.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide_3.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide_4.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide_5.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide_6.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide_7.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_slide_one.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_tag.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/item_tags.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/list_item_image.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/materialcolorpicker__layout_color_picker.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/materialcolorpicker__layout_color_picker_old_android.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/mopub_banner.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/native_ad_layout_1.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/nav_header_home.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/recycler_view_item.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/update_message.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/user_item.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/user_row.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/view_color_more_panel.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/view_color_panel.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/view_set_stoke_width.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/view_sticker_item.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/layout/view_sticker_type_item.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/menu/activity_home_drawer.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/menu/home.xml" value="0.2833333333333333" />
+        <entry key="..\:/PC/Documentos/StickerMaker - copia (2)/app/src/main/res/menu/pack.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/background_btn_black.xml" value="0.272" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/background_btn_red.xml" value="0.272" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/background_load_more.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/background_signal.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/background_size.xml" value="0.322" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/background_telegram.xml" value="0.272" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/bg_facebook_btn.xml" value="0.1935" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/border_bottom_comment.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/border_bottom_settings.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/border_file.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/border_left.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/circular_progress_bar.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_account.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_assignment.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_check.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_email_profile.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_face.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_facebook_profile.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_grid.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_logout.xml" value="0.272" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_search_black.xml" value="0.318" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/drawable/ic_settings.xml" value="0.247" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_category.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_edit.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_editor.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_image_edit.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_infos.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_load.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_policy.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_search.xml" value="0.18541666666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_settings.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_slide.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_sticker_details.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_support.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_upload.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/activity_user.xml" value="0.6196403872752421" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/ad_unified.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/app_bar_home.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/bucketitem.xml" value="0.18541666666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/content_home.xml" value="0.18541666666666667" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/crop_mode_dialog.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/dialog_rating_app.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/dialog_subscribe.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/error_layout.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_categories.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_edit_image_add_text.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_edit_image_crop.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_edit_image_main_menu.xml" value="0.67" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_edit_image_rotate.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_edit_image_sticker_type.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_edit_paint.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_favorites.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_follow.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_popular.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/fragment_user.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/gallery.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/imageitem.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_admob_native_ads.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_bitmap.xml" value="0.67" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_categories.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_category.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_category_mini.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_category_select.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_facebook_ads.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_following.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_followings.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_mopub_native.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_mopub_view_parent.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_native_banner_ad_layout.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_pack.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide_1.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide_2.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide_3.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide_4.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide_5.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide_6.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide_7.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_slide_one.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_tag.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/item_tags.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/list_item_image.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/materialcolorpicker__layout_color_picker.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/materialcolorpicker__layout_color_picker_old_android.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/mopub_banner.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/native_ad_layout_1.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/nav_header_home.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/recycler_view_item.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/update_message.xml" value="0.5" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/user_item.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/user_row.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/view_color_more_panel.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/view_color_panel.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/view_set_stoke_width.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/view_sticker_item.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/layout/view_sticker_type_item.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/menu/activity_home_drawer.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/menu/home.xml" value="0.33" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/menu/pack.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.272" />
+        <entry key="..\:/PC/Documentos/StickerMaker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2815" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2475" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/drawable/ic_search_black.xml" value="0.2475" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/drawable/ic_zoom.xml" value="0.2475" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/drawable/ic_zoom_inactive.xml" value="0.2475" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.2475" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/font/googlefont.xml" value="0.3927083333333333" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_category.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_edit.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_editor.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_home.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_image_edit.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_infos.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_load.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_policy.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_search.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_settings.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_slide.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_splash.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_sticker_details.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_support.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_upload.xml" value="0.3625" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/activity_user.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/ad_unified.xml" value="0.2682291666666667" />
+        <entry key="..\:/PC/Documentos/UniteckerApp/app/src/main/res/layout/app_bar_home.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

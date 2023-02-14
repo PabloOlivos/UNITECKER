@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:facebook="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.unitecker.app.ui.LoginActivity">
+    <LinearLayout
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/comment_bg"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:padding="10dp"
+            android:visibility="visible"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:textColor="#F28322"
+                android:text="Inicia Sesión"
+                android:fontFamily="@font/kabelbd_normal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="13dp"
+                android:layout_marginBottom="10dp"
+                android:lineSpacingExtra="3dp"
+                android:textColor="@color/primary_text_light"
+                android:text="Para recopilar, compartir y descargar contenido gratuito, debe estar registrado/registrado. Registrarse/Registrarse es gratis y tiene muchas ventajas:"
+                android:fontFamily="@font/google_sans"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <RelativeLayout
+                android:paddingTop="5dp"
+                android:gravity="left|center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_margin="7dp"
+                    android:background="@color/black"
+                    android:layout_width="5dp"
+                    android:layout_height="5dp"/>
+                <TextView
+                    android:textSize="13dp"
+                    android:text="Sigue y descubre a tus autores favoritos."
+                    android:fontFamily="@font/google_sans"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:paddingTop="5dp"
+                android:gravity="left|center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_margin="7dp"
+                    android:background="@color/black"
+                    android:layout_width="5dp"
+                    android:layout_height="5dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="Publica tu contenido creativo con nuestra comunidad."
+                    android:fontFamily="@font/google_sans"
+                    android:textSize="13dp" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:paddingTop="5dp"
+                android:gravity="left|center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_margin="7dp"
+                    android:background="@color/black"
+                    android:layout_width="5dp"
+                    android:layout_height="5dp"/>
+                <TextView
+                    android:textSize="13dp"
+                    android:text="Deja tu opinión en los comentarios"
+                    android:fontFamily="@font/google_sans"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:paddingTop="5dp"
+                android:gravity="left|center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_margin="7dp"
+                    android:background="@color/black"
+                    android:layout_width="5dp"
+                    android:layout_height="5dp"/>
+                <TextView
+                    android:textSize="13dp"
+                    android:text="Califica los paquetes de stickers "
+                    android:fontFamily="@font/google_sans"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:paddingTop="5dp"
+                android:gravity="left|center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_margin="7dp"
+                    android:background="@color/black"
+                    android:layout_width="5dp"
+                    android:layout_height="5dp"/>
+                <TextView
+                    android:textSize="13dp"
+                    android:text="Crea tu propio perfil y obten la insignia de confianza"
+                    android:fontFamily="@font/google_sans"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_below="@id/image_view_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/linear_layout_buttons_login_activity"
+                android:visibility="visible"
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <!--FACEBOOK ARRIBA-->
+                <com.facebook.login.widget.LoginButton
+                    android:enabled="false"
+                    android:visibility="gone"
+                    facebook:com_facebook_login_text="Login with facebook"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="3dp"
+                    android:id="@+id/sign_in_button_facebook"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:textSize="15sp"
+                    android:paddingTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="10dp" />
+
+                <RelativeLayout
+                    android:alpha="0.7"
+
+                    android:elevation="2dp"
+                    android:layout_marginBottom="3dp"
+                    android:clickable="true"
+                    android:background="?attr/selectableItemBackground"
+                    android:id="@+id/relative_layout_google_login"
+                    android:gravity="left|center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+                    <RelativeLayout
+                        android:gravity="center"
+                        android:background="@drawable/bg_google_btn"
+                        android:layout_width="match_parent"
+
+                        android:layout_height="match_parent">
+
+
+                        <ImageView
+                            android:layout_marginLeft="10dp"
+                            android:layout_centerVertical="true"
+                            android:background="@drawable/bg_google_icon"
+                            android:padding="3dp"
+                            app:srcCompat="@drawable/ic_google_login"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginLeft="40dp"
+                            android:fontFamily="@font/google_sans"
+                            android:gravity="center"
+                            android:text="Ingresar con Google"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+                    </RelativeLayout>
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:alpha="0.7"
+
+                    android:visibility="visible"
+                    android:elevation="2dp"
+                    android:clickable="true"
+                    android:background="?attr/selectableItemBackground"
+                    android:id="@+id/relative_layout_phone_login"
+                    android:gravity="left|center"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+                    <RelativeLayout
+                        android:gravity="center"
+                        android:background="@drawable/bg_phone_btn"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="10dp"
+                            android:padding="0dp"
+                            android:tint="@color/white"
+                            app:srcCompat="@drawable/ic_phone_msg" />
+                        <TextView
+                            android:layout_marginLeft="40dp"
+                            android:gravity="center"
+                            android:textStyle="bold"
+                            android:textColor="@color/white"
+                            android:text="Ingresa con número telefónico"
+                            android:fontFamily="@font/google_sans"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp" />
+                    </RelativeLayout>
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linear_layout_otp_confirm_login_activity"
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:text="Por favor, escriba el código de verificación que se le envió"
+                    android:fontFamily="@font/google_sans"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <EditText
+                    android:id="@+id/otp_edit_text_login_activity"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:cursorVisible="true"
+                    android:digits="1234567890"
+                    android:inputType="number"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:maxLength="6"
+                    android:letterSpacing="2.0"
+                    android:background="@drawable/bg_season_tab"
+                    android:textIsSelectable="true"
+                    android:textSize="23sp"/>
+                <RelativeLayout
+                    android:id="@+id/relative_layout_confirm_top_login_activity"
+                    android:elevation="2dp"
+                    android:clickable="true"
+                    android:background="?attr/selectableItemBackground"
+                    android:gravity="left|center"
+                    android:layout_marginTop="4dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+                    <RelativeLayout
+                        android:gravity="center"
+                        android:background="@drawable/bg_loading_subtitles_accent"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <ImageView
+                            android:layout_alignParentRight="true"
+                            android:tint="@color/white"
+                            android:layout_marginRight="10dp"
+                            android:layout_centerVertical="true"
+                            android:padding="5dp"
+                            app:srcCompat="@drawable/ic_check"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp" />
+                        <TextView
+                            android:layout_marginRight="40dp"
+                            android:gravity="center"
+                            android:textStyle="bold"
+                            android:textColor="@color/white"
+                            android:text="Siguiente"
+                            android:fontFamily="@font/google_sans"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linear_layout_phone_input_login_activity"
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="17dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:text="Ingrese su número telefónico"
+                    android:fontFamily="@font/google_sans"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <LinearLayout
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <com.rilixtech.widget.countrycodepicker.CountryCodePicker
+                        android:layout_marginRight="5dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        facebook:ccp_textSize="17dp"
+                        android:gravity="center"
+                        android:background="@drawable/bg_season_tab"
+                        facebook:ccp_textColor="@color/colorAccent"
+                        android:visibility="visible"
+                        android:id="@+id/CountryCodePicker"
+                        android:layout_width="wrap_content"
+                        android:layout_height="45dp" />
+                    <EditText
+                        android:id="@+id/edit_text_phone_number_login_acitivty"
+                        android:maxLength="15"
+                        android:textSize="17dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorAccent"
+                        android:inputType="phone"
+                        android:paddingLeft="10dp"
+                        android:gravity="center|left"
+                        android:background="@drawable/bg_season_tab"
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp" />
+                </LinearLayout>
+                <RelativeLayout
+                    android:elevation="2dp"
+                    android:clickable="true"
+                    android:background="?attr/selectableItemBackground"
+                    android:id="@+id/relative_layout_confirm_phone_number"
+                    android:gravity="left|center"
+                    android:layout_marginTop="4dp"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+                    <RelativeLayout
+                        android:gravity="center"
+                        android:background="@drawable/bg_loading_subtitles_accent"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <ImageView
+                            android:layout_alignParentRight="true"
+                            android:tint="@color/white"
+                            android:layout_marginRight="10dp"
+                            android:layout_centerVertical="true"
+                            android:padding="5dp"
+                            app:srcCompat="@drawable/ic_send"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp" />
+                        <TextView
+                            android:layout_marginRight="40dp"
+                            android:gravity="center"
+                            android:textStyle="bold"
+                            android:textColor="@color/white"
+                            android:text="Enviar código de verificación"
+                            android:fontFamily="@font/google_sans"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linear_layout_name_input_login_activity"
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="17dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:text="Ingresa tu nombre"
+                    android:fontFamily="@font/google_sans"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <LinearLayout
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:id="@+id/edit_text_name_login_acitivty"
+                        android:maxLength="15"
+                        android:textSize="17dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorAccent"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="10dp"
+                        android:gravity="center|left"
+                        android:background="@drawable/bg_season_tab"
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp" />
+                </LinearLayout>
+                <RelativeLayout
+                    android:elevation="2dp"
+                    android:clickable="true"
+                    android:background="?attr/selectableItemBackground"
+                    android:id="@+id/relative_layout_confirm_full_name"
+                    android:gravity="left|center"
+                    android:layout_marginTop="4dp"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+                    <RelativeLayout
+                        android:gravity="center"
+                        android:background="@drawable/bg_loading_subtitles_accent"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <ImageView
+                            android:layout_alignParentRight="true"
+                            android:tint="@color/white"
+                            android:layout_marginRight="10dp"
+                            android:layout_centerVertical="true"
+                            android:padding="5dp"
+                            app:srcCompat="@drawable/ic_check"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp" />
+                        <TextView
+                            android:layout_marginRight="40dp"
+                            android:gravity="center"
+                            android:textStyle="bold"
+                            android:textColor="@color/white"
+                            android:text="Terminar"
+                            android:fontFamily="@font/google_sans"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+
+                android:padding="7dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <CheckBox
+                    android:textColor="@color/primary_text"
+                    android:focusableInTouchMode="true"
+                    android:focusable="true"
+                    android:id="@+id/check_box_login_activity_privacy"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"/>
+                <TextView
+                    android:textColor="@color/primary_text"
+                    android:text="Acepto "
+                    android:fontFamily="@font/google_sans"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:textStyle="bold"
+                    android:id="@+id/text_view_login_activity_privacy"
+                    android:layout_marginLeft="3dp"
+                    android:textColor="#2C6CBF"
+                    android:text="Términos y condiciones de la app "
+                    android:fontFamily="@font/google_sans"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+            <com.google.android.gms.common.SignInButton
+                android:visibility="gone"
+                android:layout_above="@+id/sign_in_button_facebook"
+                android:id="@+id/sign_in_button_google"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:elevation="0dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="17dp"
+                android:layout_marginBottom="3dp"
+                android:text="Ingresar con Google"
+                android:fontFamily="@font/google_sans"
+                app:colorScheme="dark"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

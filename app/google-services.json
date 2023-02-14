@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034281353641",
+    "project_id": "unitecker-app",
+    "storage_bucket": "unitecker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034281353641:android:4e226089da86d52837c4b8",
+        "android_client_info": {
+          "package_name": "com.stickermaker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034281353641-upuk41s0dffnvu5nfamr5soo7o17rtut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stickermaker.app",
+            "certificate_hash": "a39c0599e8baf60500e9b11def2fb9744d15907c"
+          }
+        },
+        {
+          "client_id": "1034281353641-87ncj1glp626mvog599ue3vr6un66dda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD76ngxryngbYyU_AdgXYdFpwBbWmlHVsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034281353641-87ncj1glp626mvog599ue3vr6un66dda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

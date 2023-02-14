@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sangcomz:FishBun:0.8.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3598b67872dba70d51f9b7cb533c7864/jetified-FishBun-0.8.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3598b67872dba70d51f9b7cb533c7864/jetified-FishBun-0.8.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3598b67872dba70d51f9b7cb533c7864/jetified-FishBun-0.8.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3cfbd5daa82c2fb208f47fc0c670d250/jetified-FishBun-0.8.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3cfbd5daa82c2fb208f47fc0c670d250/jetified-FishBun-0.8.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3cfbd5daa82c2fb208f47fc0c670d250/jetified-FishBun-0.8.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sangcomz/FishBun/0.8.7/b703a6bdef7b419a018bd4259059655e06188d8/FishBun-0.8.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sangcomz/FishBun/0.8.7/516437ceddafe5decd9aa0630bd6618213f9152f/FishBun-0.8.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

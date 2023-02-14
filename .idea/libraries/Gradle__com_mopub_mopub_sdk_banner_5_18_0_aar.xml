@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mopub:mopub-sdk-banner:5.18.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/289976f991fe946f5a28d299d9324792/jetified-mopub-sdk-banner-5.18.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f75ce8529ebc4dbaf20a63a87d3cd579/jetified-mopub-sdk-banner-5.18.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f75ce8529ebc4dbaf20a63a87d3cd579/jetified-mopub-sdk-banner-5.18.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f75ce8529ebc4dbaf20a63a87d3cd579/jetified-mopub-sdk-banner-5.18.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

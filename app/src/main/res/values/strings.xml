@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">UNITECKER</string>
+
+    <string name="facebook_app_id">2169750233343295</string>
+    <string name="fb_login_protocol_scheme">fb2169750233343295</string>
+
+    <string name="web_client_id">1034281353641-87ncj1glp626mvog599ue3vr6un66dda.apps.googleusercontent.com</string>
+
+    <string name="panel_url">stickers.virmana.com</string>
+
+    <string-array name="fonts">
+        <item>font_1.ttf</item>
+        <item>font_2.ttf</item>
+        <item>font_3.ttf</item>
+        <item>font_4.ttf</item>
+        <item>font_5.ttf</item>
+        <item>font_6.ttf</item>
+        <item>font_7.ttf</item>
+        <item>font_8.ttf</item>
+        <item>font_9.ttf</item>
+        <item>font_10.ttf</item>
+        <item>google_sans.ttf</item>
+    </string-array>
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Abrir cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar cajón de navegación</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="version_label">Versión actual</string>
+    <string name="title_notification">Habilitar notificación push</string>
+    <string name="label_notification">Recibir notificación push</string>
+    <string name="clear_cache">Limpiar Cache</string>
+    <string name="label_cache">Limpiar el cache local. Actualmente : </string>
+    <string name="progress_login">Cargando....</string>
+    <string name="message_sended">El Mensaje fue enviado exitosamente</string>
+    <string name="error_short_value">El campo es demasiado corto</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_name">Nombre Completo</string>
+    <string name="hint_message">Tu Mensaje</string>
+    <string name="send_support">Enviar Mensaje</string>
+    <string name="error_mail_valide">Porfavor ingresa un E-mail Valido</string>
+
+
+    <string name="hint_facebook">Facebook URL</string>
+    <string name="hint_twitter">Twitter URL</string>
+    <string name="hint_instragram">Instagram URL</string>
+    <string name="save">Guardar</string>
+    <string name="invalide_url">Url Invalida</string>
+    <string name="loading_user_data">Cargando datos de Usuario</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola Fragmento en blanco</string>
+    <string name="try_again">Intentalo nuevamente</string>
+    <string name="error_server">Revisa tu conexion a internet ...</string>
+    <string name="please_login">Inicia Sesión con tu cuenta</string>
+
+    <string name="skip">Saltar</string>
+    <string name="rate_our_app">Calfica nuestra app</string>
+    <string name="rate_our_app_message">Si te gusta nuestra aplicacion, porfavor tomate un momento para calificarla</string>
+    <string name="rate_now">Calificala ahora</string>
+    <string name="later">DESPUES</string>
+    <string name="no_again">NO ME PREGUNTES DE NUEVO</string>
+    <string name="cancel">CANCELAR</string>
+
+    <string name="dialog_text_no_ads_title">QUITAR LOS ANUNCIOS</string>
+    <string name="dialog_text_no_premium_wallpapers_title">Contenido PREMIUM</string>
+    <string name="dialog_text_no_premium_wallpapers_description">Obten Stickerss INLIMITADOS</string>
+    <string name="dialog_text_no_ads_description">USAR LA APLICACION GRATIS CON ANUNCIOS</string>
+    <string name="description_subsribte">Con nuestro paquete. Puedes disfrutar de una experiencia sin publicidad. ¡Y concéntrate en lo esencial!</string>
+
+    <string name="title_home">Menú Principal</string>
+    <string name="my_profile">Mi perfil</string>
+    <string name="login">Iniciar sesión / Registrarse</string>
+    <string name="Logout">Cerrar sesión</string>
+    <string name="share_this_app">Comparte esta aplicacion</string>
+    <string name="action_rate">Califica la app</string>
+    <string name="contact_us">Contáctanos</string>
+    <string name="policy_privacy">Politica de privacidad</string>
+    <string name="exit">Salir</string>
+
+    <string name="account_disabled">Lo sentimos, tu cuenta ha sido bloqueada</string>
+    <string name="login_gg_text">Iniciar sesion con google</string>
+    <string name="message_logout">Ha cerrado sesión correctamente</string>
+    <string name="operation_progress">Operacion en progreso</string>
+
+    <string name="loading">Cargando</string>
+    <string name="edit_my_profile">Editar mi perfil</string>
+    <string name="download_pack_from">Click aqui para descargar el sticker</string>
+    <string name="info_pack">Informacion de los paquetes</string>
+    <string name="pack_publisher">Editor de paquetes</string>
+    <string name="publisher_email">Correo electrónico del publicador</string>
+    <string name="publisher_website">Sitio web del editor</string>
+    <string name="license_agreement">Acuerdo de licencia</string>
+    <string name="update_now">Actualizar ahora</string>
+
+    <string name="title_slide_1">Bienvenido a UNITECKER</string>
+    <string name="description_slide_1">Gracias por descargar la aplicación de STIKCERS,disfruta con esta increíble aplicación Andoid con características geniales.</string>
+
+    <string name="title_slide_2">Todo organizado aqui</string>
+    <string name="description_slide_2">Puede encontrar cualquier contenido fácilmente mediante el uso de categorías, título, etiquetas.</string>
+
+    <string name="title_slide_3">Sé creativo</string>
+    <string name="description_slide_3">Regístrese ahora y comparta su idea creativa con muchos usuarios y sea uno de nuestra comunidad.</string>
+
+    <string name="title_slide_4">Descargar y compartir</string>
+    <string name="description_slide_4">Descarga cualquier paquete de STICKERS y úsalo en tu aplicación de whatsapp, y compártelo con tus amigos </string>
+
+    <string name="title_slide_5">Favoritos</string>
+    <string name="description_slide_5">Cree su lista de favoritos y guarde cualquier contenido para verlo más tarde . </string>
+
+    <string name="title_slide_6">Califica los Stickers</string>
+    <string name="description_slide_6">Explore la mejor colección de Stickers y dé su calificación...</string>
+
+    <string name="title_slide_8">Sé Premium, toma tu libertad</string>
+    <string name="description_slide_8">Suscríbase por un pequeño precio y tome su libertad eliminando todos los anuncios. y descarga el contenido premium</string>
+    <string name="hint_pack_name">Nombre del paquete</string>
+    <string name="hint_publisher">Autor</string>
+    <string name="crop_as_circle">Recortar imagen \n como circulo</string>
+    <string name="crop_as_rec">Recortar imagen \n como rectángulo</string>
+    <string name="no_crop">Editor de imágenes \n &amp; Recortar</string>
+    <string name="pack_upload_success">El paquete se cargó correctamente</string>
+    <string name="create_pack">Crea tu paquete</string>
+    <string name="upload_pack">Subir ahora</string>
+    <string name="hint_pack_email">Correo electrónico del editor</string>
+    <string name="hint_pack_website">Sitio web</string>
+    <string name="hint_privacy">Política de privacidad</string>
+    <string name="hint_license">Acuerdo de licencia</string>
+    <string name="add_to_whatsapp">Añadir a Whatsapp</string>
+    <string name="name_short">El nombre del paquete es muy corto.</string>
+    <string name="publisher_short">El nombre del editor es muy corto</string>
+    <string name="tray_image_required">Seleccione el icono del paquete</string>
+    <string name="sticker_number_required">Debe seleccionar más de 3 STICKERS</string>
+    <string name="sticker_number_required_min">Debe seleccionar menos de 30 stickers</string>
+
+    <string name="image_chooser_message">Elija una imagen para cortar</string>
+
+    <string name="no_images">no found the image</string>
+    <string name="images">%d images</string>
+    <string name="apply">Apply</string>
+
+    <string name="stickers">stickers</string>
+    <string name="filter">filter</string>
+    <string name="crop">crop</string>
+    <string name="rotate">rotate</string>
+    <string name="text">text</string>
+    <string name="edit">edit</string>
+
+
+
+    <string name="materialcolorpicker__app_name">Android Material Color Picker Dialog</string>
+    <string name="materialcolorpicker__descLib">Material Color Picker Dialog</string>
+    <string name="materialcolorpicker__errHex">Formato de código hexadecimal incorrecto</string>
+    <string name="materialcolorpicker__inputColor">Color:</string>
+    <string name="materialcolorpicker__btnSelectColor">Seleccionar</string>
+    <string name="saving_image">Guardando...</string>
+    <string name="input_hint">Colocando texto ...</string>
+
+    <string name="no_choose">Por favor elige una imagen para editar</string>
+    <string name="auto_newline">AutoNewline</string>
+    <string name="save_error">Save error!</string>
+    <string name="handing">cargando...</string>
+
+    <string-array name="filters">
+        <item>origen</item>
+        <item>suave</item>
+        <item>negro</item>
+        <item>clásico</item>
+        <item>precioso</item>
+        <item>retro</item>
+        <item>grace</item>
+        <item>película</item>
+        <item>memoria</item>
+        <item>yogurt</item>
+        <item>fleeting</item>
+        <item>brillar</item>
+        <item>mosaico</item>
+    </string-array>
+
+    <string name="more">más</string>
+    <string name="exit_without_save">La imagen editada no se guardará. ¿Quieres salir? </string>
+    <string name="confirm">confirmar</string>
+
+    <string name="beauty">belleza</string>
+    <string name="smooth">suave</string>
+    <string name="white_skin">piel blanca</string>
+
+    <!-- update 3.1 -->
+    <string name="accept_privacy_policy_error">Debe aceptar la política de privacidad antes de iniciar sesión</string>
+
+</resources>

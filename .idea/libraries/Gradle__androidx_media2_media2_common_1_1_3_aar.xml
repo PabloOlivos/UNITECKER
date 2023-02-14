@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media2:media2-common:1.1.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7ffc6076cb805d165c467aeecc922ba/jetified-media2-common-1.1.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bbda2574e3c1c90847b0bf503e72b6b/jetified-media2-common-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7ffc6076cb805d165c467aeecc922ba/jetified-media2-common-1.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7ffc6076cb805d165c467aeecc922ba/jetified-media2-common-1.1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7ffc6076cb805d165c467aeecc922ba/jetified-media2-common-1.1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media2/media2-common/1.1.3/8c5e2a32a5ed53f6d0d45cc355f0e8b6d8a3c4ea/media2-common-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
