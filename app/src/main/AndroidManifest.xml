@@ -18,15 +18,29 @@
         android:screenOrientation="portrait"
         android:supportsRtl="true"
         android:theme="@style/MyBaseTheme1">
+        <activity
+            android:name=".activity.SplashScreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/MyBaseTheme1.Fullscreen">
 
-        <activity android:name="com.aztech.unitecker.activity.ActivityAbout"
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".activity.ActivityAbout"
             android:label="About Us"
-            android:theme="@style/MyBaseTheme"></activity>
+            android:theme="@style/MyBaseTheme" />
         <activity
             android:name="com.aztech.unitecker.TextSticker.TextActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.aztech.unitecker.activity.AddStickerPackActivity"
+            android:name=".activity.AddStickerPackActivity"
             android:label="Add to sticker pack"
             android:screenOrientation="portrait">
             <meta-data
@@ -34,7 +48,7 @@
                 android:value="com.aztech.unitecker.activity.HomeActivity" />
         </activity>
         <activity
-            android:name="com.aztech.unitecker.activity.HomeActivity"
+            android:name=".activity.HomeActivity"
             android:screenOrientation="portrait"
             android:theme="@style/MyBaseTheme" />
         <activity
@@ -50,7 +64,7 @@
             android:theme="@style/MyBaseTheme1" />
         <activity
             android:name="com.aztech.unitecker.whatsapp_api.StickerPackDetailsActivity"
-            android:parentActivityName="com.aztech.unitecker.activity.HomeActivity"
+            android:parentActivityName=".activity.HomeActivity"
             android:screenOrientation="portrait"
             tools:ignore="UnusedAttribute">
             <meta-data
@@ -58,14 +72,10 @@
                 android:value="com.aztech.unitecker.activity.HomeActivity" />
         </activity>
         <activity
-            android:name="com.aztech.unitecker.activity.PermissionActivity"
+            android:name=".activity.PermissionActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.aztech.unitecker.whatsapp_api.StickerPackInfoActivity"
@@ -105,10 +115,10 @@
         </provider>
 
         <activity
-            android:name="com.aztech.unitecker.activity.NewStickerPackActivity"
+            android:name=".activity.NewStickerPackActivity"
             android:label="@string/title_activity_new_sticker_pack"
             android:launchMode="singleTask"
-            android:parentActivityName="com.aztech.unitecker.activity.HomeActivity"
+            android:parentActivityName=".activity.HomeActivity"
             android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -117,10 +127,9 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-6746062372824991~7470171652"/>
-        <!--<meta-data-->
-            <!--android:name="io.fabric.ApiKey"-->
-            <!--android:value="ef69694019aa027534c81036315aab159ed2203b" />-->
+            android:value="ca-app-pub-6746062372824991~7470171652" /> <!-- <meta-data -->
+        <!-- android:name="io.fabric.ApiKey" -->
+        <!-- android:value="ef69694019aa027534c81036315aab159ed2203b" /> -->
         <meta-data
             android:name="io.fabric.ApiKey"
             android:value="ef69694019aa027534c81036315aab159ed2203b" />

@@ -44,10 +44,8 @@
     <color name="colorPrimarybg">#FFFFFF</color>
 
 
-
     <color name="menuBackgroun">#25D366</color>
     <color name="menuSelector">#f7214f</color>
-
 
 
     <color name="primary_text">#212121</color>
@@ -86,5 +84,9 @@
     <color name="materialcolorpicker__dialogcolor">#009688</color>
     <color name="hint_foreground_material_light">#00000000</color>
     <color name="hint_foreground_material_dark">#00000000</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
 
 </resources>

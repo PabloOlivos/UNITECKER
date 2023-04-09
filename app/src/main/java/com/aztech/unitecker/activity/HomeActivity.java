@@ -13,7 +13,6 @@ import androidx.annotation.Nullable;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
 
-import androidx.core.splashscreen.SplashScreen;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -50,7 +49,6 @@ public class HomeActivity extends AddStickerPackActivity implements NavigationVi
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
-        SplashScreen splashScreen = SplashScreen.installSplashScreen(this);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         navigationView = (NavigationView) findViewById(R.id.nav_view);
