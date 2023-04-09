@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">UNITECKER</string>
+    <string name="tray_image_content_description">Imagen de la bandeja del paquete de adhesivos</string>
+    <string name="more_info_button">Más información sobre el paquete de pegatinas</string>
+    <string name="add_to_whatsapp">Agregar a WhatsApp</string>
+    <string name="add_button_content_description">Agregar paquete de sticker a WhatsAp</string>
+    <string name="title_activity_sticker_packs_list">Paquetes de stickers</string>
+    <string name="dot">•</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Paquetes de stickers</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Detalles del sticker</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <string name="view_webpage">Ver página web</string>
+    <string name="send_email">Enviar correo electrónico</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="error_adding_sticker_pack">No se pudo agregar este paquete de stickers. Instale la última versión de
+        WhatsApp antes de agregar el paquete de stickers
+    </string>
+    <string name="error_message">Error: %s \nVer logcat para el seguimiento de la pila.</string>
+    <string name="title_validation_error">Error con el paquete</string>
+    <string name="info_screen_tray_icon">Tray icon</string>
+    <string name="details_pack_already_added">Paquete de stickers agregado a WhatsApp</string>
+    <string name="info_send_email_to_prompt">Enviar correo electrónico con</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Paquete de stickers no añadido. Si desea agregarlo, asegúrese de
+        Actualizar a la última versión de WhatsApp.
+    </string>
+    <string name="add_pack_fail_prompt_update_play_link">Actualizar</string>
+    <string name="cannot_find_play_store">Google Play no está instalado en el dispositivo.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_new_sticker_pack">Nuevo paquete de stickers</string>
+
+    <!-- Strings related to NewStickerPackActivity -->
+    <string name="prompt_name">Nombre del paquete</string>
+    <string name="prompt_author">Autor</string>
+    <string name="create_sticker_pack">Seleccionar imágenes</string>
+    <string name="create_sticker_button">Crear Sticker</string>
+
+    <!--Background remover -->
+    <string name="intro_magic_title">Borrado automático de fondo</string>
+    <string name="intro_manual_title">Borrado manual de fondog</string>
+    <string name="intro_zoom_title">Hacer zoom y mover la imagen</string>
+    <string name="intro_magic_description">Use la herramienta Varita mágica y toque las partes del fondo que desea borrar
+    </string>
+    <string name="intro_manual_description">Utilice la herramienta Lápiz para borrar el fondo arrastrando el dedo por el
+        pantalla
+    </string>
+    <string name="intro_zoom_description">Use la herramienta Lupa para acercar/alejar para que pueda hacer mejores cortes</string>
+    <string name="intro_label">Vista rápida</string>
+    <string name="image_chooser_message">Elige una imagen para cortar</string>
+
+    <string name="rateus">Califícanos</string>
+    <string name="moreapp">More App</string>
+    <string name="shareapp">Compartir aplicación</string>
+    <string name="exit">Salir</string>
+    <string name="aboutus">A cerca de</string>
+    <string name="exitmessege">¿Quieres salir?</string>
+    <string name="aboutapp">A Simply Learning Tutorial App</string>
+    <string name="appvirsion">2.0</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+
+
+    <!--<string name="banner1">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="instretial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="banner1">ca-app-pub-2125044597318093~8080545628</string>
+    <string name="instretial">ca-app-pub-2125044597318093/4640828215</string>
+
+    <!-- Fragmentos -->
+    <!--Fragment_my_stickers-->
+    <string name="my_stickers"><b>No hay paquetes de stickers disponibles.</b>\n <i>Vamos a crear algunas paquetes de stickers increíbles.</i>.</string>
+    <string name="main_my_stickers">Paquetes de stickers creados</string>
+
+    <!--Fragment_create-->
+    <string name="create"><b>No hay stickers disponibles.</b>\n <i>Vamos a crear algunos stickers increíbles.</i></string>
+    <string name="main_create">Stickers creados</string>
+    <string name="unitec">UNITEC</string>
+    <string name="ker">KER</string>
+
+    <!--Permisos-->
+    <string name="permisos"><b>Necesitamos algunos permisos \n para empezar a crear tus stickers.</b></string>
+
+</resources>
