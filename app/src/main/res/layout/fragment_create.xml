@@ -88,19 +88,18 @@
             app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-    <com.google.android.gms.ads.AdView
-        xmlns:ads="http://schemas.android.com/apk/res-auto"
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
         android:id="@+id/adView"
         android:layout_width="match_parent"
-        android:layout_gravity="bottom"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="bottom"
         ads:adSize="FULL_BANNER"
-        ads:adUnitId="@string/banner1">
-    </com.google.android.gms.ads.AdView>
+        ads:adUnitId="@string/banner1"></com.google.android.gms.ads.AdView>
 
     <com.github.clans.fab.FloatingActionMenu
+        style="@style/MyBaseTheme"
         android:id="@+id/menu"
         android:layout_width="wrap_content"
         android:layout_above="@id/adView"

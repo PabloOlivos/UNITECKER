@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     tools:context=".activity.MyStickersFragment">
 
     <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
@@ -67,20 +68,21 @@
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/floating_button_add_sticker_pack"
+            style="@style/AppTheme"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|end"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
             android:clickable="true"
-            android:focusable="true"
             app:srcCompat="@drawable/ic_add"
+            android:focusable="true"
             android:tint="@color/white"
             app:elevation="8dp"
             app:fabCustomSize="65dp"
-            android:layout_marginRight="10dp"
-            android:layout_marginBottom="10dp"
+            app:backgroundTint="@color/unitecorange"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:rippleColor="#fff"
             app:useCompatPadding="true" />
 
         <androidx.swiperefreshlayout.widget.SwipeRefreshLayout

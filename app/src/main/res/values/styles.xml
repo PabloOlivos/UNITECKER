@@ -35,7 +35,7 @@
     </style>
 
 
-    <style name="MyBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="MyBaseTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -43,16 +43,18 @@
         <item name="android:navigationBarColor">@color/transparent</item><!--Parte de abajo-->
         <item name="android:statusBarColor">#003053</item>
         <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+
     </style>
 
 
-    <style name="MyBaseTheme1" parent="Base.Theme.AppCompat.Light">
+    <style name="MyBaseTheme1" parent="Theme.MaterialComponents.DayNight">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:fontFamily">@font/poppins_regular</item>
         <!--<item name="android:statusBarColor">#CEB61F</item>-->
         <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+
     </style>
 
 

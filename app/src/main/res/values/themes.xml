@@ -1,14 +1,15 @@
 <resources>
 
-    <style name="MyBaseTheme1.Fullscreen" parent="MyBaseTheme1">
+    <style name="MyBaseTheme1.Fullscreen" parent="MyBaseTheme">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowContentOverlay">@null</item>
     </style>
 
-    <style name="ThemeOverlay.WhatsAppStickersmaster.FullscreenContainer" parent="">
+    <style name="ThemeOverlay.WhatsAppStickersmaster.FullscreenContainer" parent="MyBaseTheme">
         <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
         <item name="fullscreenTextColor">@color/light_blue_A200</item>
+        <item name="android:windowActionBar">false</item>
     </style>
 </resources>

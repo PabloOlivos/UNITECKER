@@ -28,7 +28,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_new_sticker_pack">Nuevo paquete de stickers</string>
+    <string name="title_activity_new_sticker_pack">Nuevo paquete</string>
 
     <!-- Strings related to NewStickerPackActivity -->
     <string name="prompt_name">Nombre del paquete</string>
@@ -52,9 +52,9 @@
     <string name="rateus">Califícanos</string>
     <string name="moreapp">More App</string>
     <string name="shareapp">Compartir aplicación</string>
-    <string name="exit">Salir</string>
+    <string name="exit">Cerrar Sesión</string>
     <string name="aboutus">A cerca de</string>
-    <string name="exitmessege">¿Quieres salir?</string>
+    <string name="exitmessege">¿Quieres cerrar sesión?</string>
     <string name="aboutapp">A Simply Learning Tutorial App</string>
     <string name="appvirsion">2.0</string>
     <string name="open">Abrir</string>
@@ -63,8 +63,9 @@
 
     <!--<string name="banner1">ca-app-pub-3940256099942544/6300978111</string>-->
     <!--<string name="instretial">ca-app-pub-3940256099942544/1033173712</string>-->
-    <string name="banner1">ca-app-pub-2125044597318093~8080545628</string>
-    <string name="instretial">ca-app-pub-2125044597318093/4640828215</string>
+    <string name="banner1">ca-app-pub-2125044597318093/4640828215</string>
+    <string name="instretial">ca-app-pub-2125044597318093/1601663538</string>
+    <string name="web_client_id">1034281353641-87ncj1glp626mvog599ue3vr6un66dda.apps.googleusercontent.com</string>
 
     <!-- Fragmentos -->
     <!--Fragment_my_stickers-->

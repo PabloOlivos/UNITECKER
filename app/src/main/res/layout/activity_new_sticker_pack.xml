@@ -113,13 +113,12 @@
 
     <Button
         android:id="@+id/btn_create_pack"
-        style="?android:textAppearanceSmall"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginBottom="64dp"
-        android:background="@drawable/background_btn_border"
+        android:layout_marginBottom="65dp"
         android:text="@string/create_sticker_pack"
         android:textStyle="bold"
         android:textColor="@color/unitecorange"
