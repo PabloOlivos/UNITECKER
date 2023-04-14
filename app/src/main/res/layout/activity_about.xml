@@ -20,30 +20,28 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="180dp"
-                android:background="@color/colorPrimary"
+                android:background="#FFFFFF"
                 android:gravity="center"
                 android:orientation="vertical">
 
                 <ImageView
                     android:layout_width="70dp"
                     android:layout_height="70dp"
-                    android:src="@mipmap/logo" />
+                    android:src="@drawable/unitecker_logo_2" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
-                    android:text="@string/app_name"
-                    android:textColor="@color/black"
-                    android:textSize="20dp"
-                    android:textStyle="bold|italic" />
+                <ImageView
+                    android:layout_width="252dp"
+                    android:layout_height="54dp"
+                    android:src="@drawable/unitecker_logo">
+
+                </ImageView>
 
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#FCE141">
+                android:background="#F7AD19">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -55,7 +53,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Version Of AV Sticky Maker "
+                        android:text="Acerca de la aplicación"
                         android:textColor="@color/black"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
@@ -64,7 +62,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:text="1.1.12 "
+                        android:text="UNITECKER: Aplicación de stickers"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
 
@@ -75,7 +73,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#FAE561">
+                android:background="#FBC049">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -87,7 +85,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Sticker Add "
+                        android:text="Versión"
                         android:textColor="@color/black"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
@@ -96,7 +94,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:text="Sticker Add In WhatsApp "
+                        android:text="Versión 2.1 ''Axolotl''  "
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
 
@@ -107,7 +105,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#F7E67F">
+                android:background="#F8CD77">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -119,7 +117,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Creator "
+                        android:text="Creador "
                         android:textColor="@color/black"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
@@ -128,7 +126,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:text="AV Creation "
+                        android:text="Aztech "
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
 
@@ -139,7 +137,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#FAED9D">
+                android:background="#FADB9F">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -151,7 +149,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="AV Sticky Maker "
+                        android:text="UNITECKER APP"
                         android:textColor="@color/black"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
@@ -160,7 +158,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:text="* Create Your Personal Sticker With AV Sticky Maker\n\n* Up to 30 Stickers Per Pack\n\n* Use Your Photos\n\n* Use your Text\n\n* Create Smoke Text Sticker\n\n* Add To Sticker In WhatsApp\n "
+                        android:text="Crea tus stickers o paquetes de stickers\n\n* Hasta 30 stickers por paquete\n\n* Usa tus fotos\n\n* Usa tu texto\n\n* Crea un sticker de texto con humo\n\n* Agrega a WhatsApp\n"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
 
@@ -179,21 +177,22 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="180dp"
-                android:background="@color/colorPrimary"
+                android:background="#053F5C"
                 android:gravity="center"
                 android:orientation="vertical">
 
                 <ImageView
                     android:layout_width="70dp"
                     android:layout_height="70dp"
-                    android:src="@mipmap/appvision" />
+                    android:src="@drawable/logo_aztech_w" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="AppVision Infotech"
-                    android:textColor="@color/black"
+                    android:text="AZTECH "
+                    android:fontFamily="@font/poppins_semibold"
+                    android:textColor="@color/white"
                     android:textSize="20dp"
                     android:textStyle="bold|italic" />
 
@@ -202,7 +201,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#FCE141">
+                android:background="#429EBD">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -214,7 +213,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="AppVision Infotech "
+                        android:text="Acerca de nosotros"
                         android:textColor="@color/black"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
@@ -223,7 +222,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:text="Devloper "
+                        android:text="Ingenieros en Sistemas Computacionales  "
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
 
@@ -234,7 +233,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#FAE561">
+                android:background="#9FE7F5">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -246,7 +245,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Gmail "
+                        android:text="Contacto "
                         android:textColor="@color/black"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
@@ -255,7 +254,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:text="appvision0000@gmail.com "
+                        android:text="unitecker@gmail.com "
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
 
@@ -266,7 +265,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#F7E67F">
+                android:background="#DEFAFF">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -278,7 +277,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Since "
+                        android:text="Desarrollado para la materia de: "
                         android:textColor="@color/black"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
@@ -287,7 +286,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:text="March, 2019 "
+                        android:text="Implantación y mantenimiento de sistemas"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />
 
@@ -298,7 +297,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#FAED9D">
+                android:background="#EDFCFF">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -310,7 +309,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Skill "
+                        android:text="Habilidades "
                         android:textColor="@color/black"
                         android:textSize="18dp"
                         android:textStyle="bold|italic" />

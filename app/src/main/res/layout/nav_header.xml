@@ -18,7 +18,7 @@
             android:id="@+id/imageview"
             android:layout_width="110dp"
             android:layout_height="110dp"
-            android:src="@mipmap/logo"/>
+            android:src="@drawable/unitecker_logo_2"/>
 
         <TextView
             android:layout_width="match_parent"

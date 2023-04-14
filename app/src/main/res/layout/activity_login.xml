@@ -12,7 +12,7 @@
         android:id="@+id/loginImageView"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@mipmap/logo"
+        android:src="@drawable/unitecker_logo_2"
         android:transitionName="logoImageTrans"
         android:layout_gravity="center"/>
 

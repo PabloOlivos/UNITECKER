@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1034281353641-rn04g9igv4a0dvcrf446qv0q31n26167.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aztech.unitecker",
+            "certificate_hash": "a39c0599e8baf60500e9b11def2fb9744d15907c"
+          }
+        },
+        {
           "client_id": "1034281353641-87ncj1glp626mvog599ue3vr6un66dda.apps.googleusercontent.com",
           "client_type": 3
         }
