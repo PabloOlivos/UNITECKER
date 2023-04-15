@@ -23,6 +23,7 @@ import android.view.MenuItem;
 import android.view.View;
 
 import com.facebook.drawee.backends.pipeline.Fresco;
+import com.google.firebase.auth.FirebaseAuth;
 import com.sangcomz.fishbun.FishBun;
 import com.sangcomz.fishbun.adapter.image.impl.GlideAdapter;
 import com.sangcomz.fishbun.define.Define;
@@ -238,10 +239,12 @@ public class HomeActivity extends AddStickerPackActivity implements NavigationVi
                     }
                 });
 
-                builder.setNegativeButton("Yes", new DialogInterface.OnClickListener() {
+                builder.setNegativeButton("Si", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-
+                        FirebaseAuth.getInstance().signOut();
+                        Intent intent = new Intent(HomeActivity.this,LoginActivity.class);
+                        startActivity(intent);
                         finish();
                     }
                 });

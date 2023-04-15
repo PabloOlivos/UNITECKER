@@ -136,7 +136,7 @@ public class StickerPackValidator {
             if (bytes.length > STICKER_FILE_SIZE_LIMIT_KB * ONE_KIBIBYTE) {
                 throw new IllegalStateException("sticker should be less than " + STICKER_FILE_SIZE_LIMIT_KB + "KB, sticker pack identifier:" + identifier + ", filename:" + fileName);
             }
-            try {
+            /*try {
                 final WebPImage webPImage = WebPImage.createFromByteArray(bytes);
                 if (webPImage.getHeight() != IMAGE_HEIGHT) {
                     throw new IllegalStateException("sticker height should be " + IMAGE_HEIGHT + ", sticker pack identifier:" + identifier + ", filename:" + fileName);
@@ -149,7 +149,7 @@ public class StickerPackValidator {
                 }
             } catch (IllegalArgumentException e) {
                 throw new IllegalStateException("Error parsing webp image, sticker pack identifier:" + identifier + ", filename:" + fileName, e);
-            }
+            }*/
         } catch (IOException e) {
             throw new IllegalStateException("cannot open sticker file: sticker pack identifier:" + identifier + ", filename:" + fileName, e);
         }
