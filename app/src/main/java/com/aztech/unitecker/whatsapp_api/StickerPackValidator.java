@@ -17,9 +17,9 @@ import android.util.Log;
 import android.util.Patterns;
 import android.webkit.URLUtil;
 
-import com.facebook.animated.webp.WebPImage;
 import com.aztech.unitecker.utils.FileUtils;
 import com.aztech.unitecker.utils.ImageUtils;
+import com.facebook.animated.webp.WebPImage;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -136,20 +136,20 @@ public class StickerPackValidator {
             if (bytes.length > STICKER_FILE_SIZE_LIMIT_KB * ONE_KIBIBYTE) {
                 throw new IllegalStateException("sticker should be less than " + STICKER_FILE_SIZE_LIMIT_KB + "KB, sticker pack identifier:" + identifier + ", filename:" + fileName);
             }
-            /*try {
-                *//*final WebPImage webPImage = WebPImage.create(bytes);
+            try {
+                final WebPImage webPImage = WebPImage.createFromByteArray(bytes);
                 if (webPImage.getHeight() != IMAGE_HEIGHT) {
                     throw new IllegalStateException("sticker height should be " + IMAGE_HEIGHT + ", sticker pack identifier:" + identifier + ", filename:" + fileName);
                 }
                 if (webPImage.getWidth() != IMAGE_WIDTH) {
                     throw new IllegalStateException("sticker width should be " + IMAGE_WIDTH + ", sticker pack identifier:" + identifier + ", filename:" + fileName);
-                }*//*
+                }
                 if (webPImage.getFrameCount() > 1) {
                     throw new IllegalStateException("sticker shoud be a static image, no animated sticker support at the moment, sticker pack identifier:" + identifier + ", filename:" + fileName);
                 }
             } catch (IllegalArgumentException e) {
                 throw new IllegalStateException("Error parsing webp image, sticker pack identifier:" + identifier + ", filename:" + fileName, e);
-            }*/
+            }
         } catch (IOException e) {
             throw new IllegalStateException("cannot open sticker file: sticker pack identifier:" + identifier + ", filename:" + fileName, e);
         }
